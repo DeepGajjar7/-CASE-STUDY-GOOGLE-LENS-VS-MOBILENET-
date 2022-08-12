@@ -1,0 +1,10 @@
+.test_image_and_result{
+    background-color: rgb(69, 253, 191);
+    margin: 20px;
+    padding: 25px;
+    border-radius: 50px;
+}
+
+img{
+    width: 200px;
+}
